@@ -1,1 +1,8 @@
-{"name":"ArgonTeq on TON","description":"This collection is created for showing an example of minting NFT collection on TON. You can support creator by buying one of this NFT.","social_links":["https://t.me/mehdikhosa50"],"image":"ipfs://QmctA5fFHfcojuEUZtgvtygBCUJGoEj5phvbC7Kyxty8kV/logo.jpg"}
+{
+    "name": "ArgonTeq on TON",
+    "description": "This collection is created for showing an example of minting NFT collection on TON. You can support creator by buying one of this NFT.",
+    "social_links": [
+        "https://t.me/mehdikhosa50"
+    ],
+    "image": "https://brown-left-fowl-93.mypinata.cloud/ipfs/QmZgxifJKWgnG4RxsLP4JQu6wa1BEdAes9EsRzifPB1KJv?pinataGatewayToken=Pt9ebBt6Lq3lboPVJtZkbiteF2O28CNqM4fGuundgLYRfwydZqhbduu-EGIj-H0A"
+}
